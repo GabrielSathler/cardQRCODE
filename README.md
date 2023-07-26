@@ -1,4 +1,6 @@
-Card feito para fins didaticos 
-desafios do Front End Mentor.
+Card feito para fins didaticos ultilizando CSS E HTML
+
+![foto do projeto rodando](https://imgur.com/a/WhHaHKT.png)
+
 
 
