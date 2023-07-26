@@ -1,0 +1,43 @@
+.fundo {
+    background: #B0C4DE;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 40%;
+    margin-top: 5%;
+    width: 400px;
+    height: 650px;
+    background-color: #ffff;
+    border-radius: 3%;
+    box-shadow: 0px 23px 46px 26px rgba(0, 0, 0, 0.1);
+}
+
+.img {
+    margin-top: 10px;
+    width: 350px;
+    height: 350px;
+    border-radius: 3%;
+}
+
+.titulo {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.paragrafo {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
